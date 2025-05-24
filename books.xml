@@ -1,0 +1,15 @@
+ <library>
+    <book>
+        <title>مقدمة في البرمجة</title>
+        <author>محمد علي</author>
+        <year>2022</year>
+        <genre>تقنية</genre>
+    </book>
+    <book>
+        <title>التصميم الجرافيكي</title>
+        <author>سارة يوسف</author>
+        <year>2021</year>
+        <genre>فن</genre>
+
+    </book>
+</library>
